@@ -23,6 +23,5 @@ To avoid having to fetch datasets used in these notebooks, copy all the director
 You can use the `rsync` utility to perform this task, if available on your system:
 
 ```bash
-rsync -av .keras nltk_data scikit_learn_data ~/
 rsync -av data/ ~/
 ```
