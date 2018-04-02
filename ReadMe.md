@@ -1,4 +1,6 @@
-# GAIC 2018
+# Machine Learning Workshops
+
+**[Udacity - School of AI](https://www.udacity.com/school-of-ai)**
 
 ## Install
 
